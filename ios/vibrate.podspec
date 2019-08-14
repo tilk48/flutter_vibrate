@@ -3,6 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'vibrate'
+  s.swift_version = '4.0'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin.'
   s.description      = <<-DESC
